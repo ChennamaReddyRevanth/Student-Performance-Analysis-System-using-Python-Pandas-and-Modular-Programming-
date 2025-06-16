@@ -25,16 +25,12 @@ A modular, console-based Python application to manage and analyze student perfor
 ## Project Structure
 
 student_performance/
-├── main.py # Entry point  
 
-└── student_system/ # Python package 
-
-├── init.py
-
-├── data_handler.py # CSV loading/saving
-
-├── operations.py # Add/update/grade functions
-
+├── main.py # Entry point    
+└── student_system/ # Python package   
+├── init.py    
+├── data_handler.py # CSV loading/saving  
+├── operations.py # Add/update/grade functions  
 └── analysis.py # Reports and statistics
 
 ## Grade Criteria
@@ -74,11 +70,12 @@ Edit
 6. Export Data to CSV
 7. Exit
 Choose option: 3
-  Student ID     Name Class  Math  Science  English  Average Grade
-0       S001  Revanth   12A   100      100       99    99.67     A
-1       S002     sree   12A    99       95       66    86.67     B
-2       S003    fahim   12B    54       55       87    65.33     C
-3       S004    revss   12B   100      100      100   100.00     A
+
+  Student ID     Name Class  Math  Science  English  Average Grade  
+0       S001  Revanth   12A   100      100       99    99.67     A  
+1       S002     sree   12A    99       95       66    86.67     B  
+2       S003    fahim   12B    54       55       87    65.33     C  
+3       S004    revss   12B   100      100      100   100.00     A  
 
 ==== STUDENT PERFORMANCE MENU ====
 1. Add New Student Record
