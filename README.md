@@ -1,4 +1,4 @@
-### Student Performance Analysis System using Python Pandas and Modular Programming
+# Student Performance Analysis System using Python Pandas and Modular Programming
 ## Objective:
 Build a modular console-based system to manage and analyze student performance 
 records using Python. This system should allow the user to add, update, analyze, and 
@@ -6,7 +6,7 @@ export student marks using pandas, and should be structured using functions,
 modules, and packages.
 
 
-# Student Performance Analysis System
+## Student Performance Analysis System
 
 A modular, console-based Python application to manage and analyze student performance using **pandas**, with support for adding, updating, analyzing, and exporting records.
 
