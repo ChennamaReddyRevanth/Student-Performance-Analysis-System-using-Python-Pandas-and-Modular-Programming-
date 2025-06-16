@@ -1,17 +1,17 @@
 # Student Performance Analysis System using Python Pandas and Modular Programming
-## Objective:
+### Objective:
 Build a modular console-based system to manage and analyze student performance 
 records using Python. This system should allow the user to add, update, analyze, and 
 export student marks using pandas, and should be structured using functions, 
 modules, and packages.
 
 
-## Student Performance Analysis System
+### Student Performance Analysis System
 
 A modular, console-based Python application to manage and analyze student performance using **pandas**, with support for adding, updating, analyzing, and exporting records.
 
 
-## Features
+### Features
 
 - Add, update, and view student records
 - Auto-generate student IDs
@@ -22,7 +22,7 @@ A modular, console-based Python application to manage and analyze student perfor
 - Modular code structure with packages and functions
 - CLI-based user interface
 
-## Project Structure
+### Project Structure
 
 student_performance/
 
@@ -33,7 +33,7 @@ student_performance/
 ├── operations.py # Add/update/grade functions  
 └── analysis.py # Reports and statistics
 
-## Grade Criteria
+### Grade Criteria
 
 | Average Marks | Grade |
 |---------------|-------|
@@ -44,7 +44,7 @@ student_performance/
 | < 40          | F     |
 
 
-##  How to Run
+###  How to Run
 
 1. **Install dependencies**:
    ```bash
@@ -60,7 +60,7 @@ Edit
 5. View Subject Topper
 6. Export Data to CSV
 7. Exit
-# Sample Output
+### Sample Output
 ==== STUDENT PERFORMANCE MENU ====
 1. Add New Student Record
 2. Update Student Marks
@@ -93,7 +93,7 @@ Science Marks: 87
 English Marks: 66  
 Student added successfully.
 
-# Notes
+### Notes
 Data is saved in student_data.csv upon choosing "Export".  
 Ensure the file is closed in Excel before saving to avoid permission errors.  
 Requires Python 3.8+ and pandas 2.x.  
