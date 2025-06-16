@@ -1,4 +1,4 @@
-### Student-Performance-Analysis-System-using-Python-Pandas-and-Modular-Programming-
+### Student Performance Analysis System using Python Pandas and Modular Programming
 ## Objective:
 Build a modular console-based system to manage and analyze student performance 
 records using Python. This system should allow the user to add, update, analyze, and 
