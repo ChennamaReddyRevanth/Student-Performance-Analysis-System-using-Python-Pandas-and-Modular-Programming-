@@ -25,11 +25,16 @@ A modular, console-based Python application to manage and analyze student perfor
 ## Project Structure
 
 student_performance/
-├── main.py # Entry point
-└── student_system/ # Python package
+├── main.py # Entry point  
+
+└── student_system/ # Python package 
+
 ├── init.py
+
 ├── data_handler.py # CSV loading/saving
+
 ├── operations.py # Add/update/grade functions
+
 └── analysis.py # Reports and statistics
 
 ## Grade Criteria
@@ -84,11 +89,17 @@ Choose option: 3
 6. Export Data to CSV
 7. Exit
 Choose option: 1
+
 Enter Name: Dinesh
+
 Enter Class: 11A
+
 Math Marks: 99
+
 Science Marks: 87
+
 English Marks: 66
+
 Student added successfully.
 
 # Notes
