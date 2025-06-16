@@ -85,18 +85,12 @@ Choose option: 3
 5. View Subject Topper
 6. Export Data to CSV
 7. Exit
-Choose option: 1
-
-Enter Name: Dinesh
-
-Enter Class: 11A
-
-Math Marks: 99
-
-Science Marks: 87
-
-English Marks: 66
-
+Choose option: 1  
+Enter Name: Dinesh  
+Enter Class: 11A  
+Math Marks: 99  
+Science Marks: 87  
+English Marks: 66  
 Student added successfully.
 
 # Notes
