@@ -94,6 +94,6 @@ English Marks: 66
 Student added successfully.
 
 # Notes
-Data is saved in student_data.csv upon choosing "Export".
-Ensure the file is closed in Excel before saving to avoid permission errors.
-Requires Python 3.8+ and pandas 2.x.
+Data is saved in student_data.csv upon choosing "Export".  
+Ensure the file is closed in Excel before saving to avoid permission errors.  
+Requires Python 3.8+ and pandas 2.x.  
